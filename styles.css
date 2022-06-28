@@ -28,7 +28,7 @@ a:hover{
 
 .container2 {
     background-color: black;
-    background-image: url(./images/R.jpg);
+    background-image: url(images/R.jpg);
     background-size: cover;
     height: 700px;
     opacity: 0.9;
